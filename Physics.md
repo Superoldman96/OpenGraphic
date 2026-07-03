@@ -8,6 +8,7 @@
 * [Gaia](https://github.com/AnkaChan/Gaia) Gaia Physics Engine
 * [ODE](https://www.ode.org/) Open Dynamics Engine
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics/) Newton Dynamics is an integrated solution for real time simulation of physics environments.
+* [box3d](https://github.com/erincatto/box3d) Box3D is a 3D physics engine for games  
 * [chrono](https://github.com/projectchrono/chrono) C++ library for multi-physics simulation
 * [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
 * [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev) OpenFOAM Foundation development repository. https://openfoam.org/
