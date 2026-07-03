@@ -1339,6 +1339,7 @@ Other.....
 * [ssds](https://github.com/TomohikoMukai/ssds) An implementation of Skinning Decomposition with Similarity Transformations (I3D2018)
 #### ML
 * [AI4Animation](https://github.com/sebastianstarke/AI4Animation) Character Animation in Unity3D using Deep Learning and Artificial Intelligence
+* [ai4animationpy](https://github.com/facebookresearch/ai4animationpy) A Python framework for AI-driven character animation using neural networks.    
 #### Bone
 * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) unity bone cloth spring system,base by jobs
 * [uSpringBone](https://github.com/EsProgram/uSpringBone) High performance SpringBone using ECS and JobSystem in Unity.
