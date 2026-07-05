@@ -1043,6 +1043,7 @@ Other.....
 * [openflipper](https://www.openflipper.org/)   programming framework designed for processing, modeling and rendering of geometric data.
 * [cinolib](https://github.com/mlivesu/cinolib) A generic programming header only C++ library for processing polygonal and polyhedral meshes
 * [mmg](https://github.com/MmgTools/mmg) open source software for bidimensional and tridimensional remeshing http://www.mmgtools.org
+* [autoremesher](https://github.com/huxingyi/autoremesher) Automatic quad remeshing software based on state of the art libraries: Geogram, libigl, isotropicremesher and others.  
 * [Directional](https://github.com/avaxman/Directional) Directional is a C++ library for creating, manipulating and visualizing directional fields on 3D meshes
 * [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 * [VolumeMesher](https://github.com/MarcoAttene/VolumeMesher) Convex Polyhedral Meshing for Robust Solid Modeling
